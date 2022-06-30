@@ -1,0 +1,1 @@
+add the fetch URL in AvailableMeals and Cart components
